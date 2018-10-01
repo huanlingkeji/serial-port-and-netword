@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CMSComm.cpp
+  CWProject.cpp
+  CWProjectDlg.cpp
+e:\yysmfcproject\项目\cwproject\cwproject\cwprojectdlg.cpp(282): warning C4244: “参数”: 从“wchar_t”转换到“BYTE”，可能丢失数据
+  正在生成代码...
+  CWProject.vcxproj -> E:\yysMFCProject\项目\CWProject\Debug\CWProject.exe
